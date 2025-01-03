@@ -1,1 +1,1 @@
-# Online-Mediacal-Store
+# Online-Medical-Store
